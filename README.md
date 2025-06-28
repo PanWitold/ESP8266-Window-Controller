@@ -2,6 +2,9 @@
 ESP8266 Smart Window Controller (ESP-NOW + Sinric Pro)
 System automatycznego sterowania oknem łazienkowym zintegrowany z Google Home i Sinric Pro. Wykorzystuje dwa moduły ESP8266: jeden stale zasilany (ESP A) i drugi bateryjny (ESP B).
 
+![ESP window](https://github.com/user-attachments/assets/5f2a8118-f5f7-4825-8087-563ee904e15c)
+
+
 ## Cel projektu
 
 Stworzenie hybrydowego, energooszczędnego systemu zdalnego otwierania i zamykania okna, który:
